@@ -1,0 +1,16 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'NanumSquareRound';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumSquareRound.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+body {font-family: 'NanumSquareRound', 'AppleGothic', sans-serif; }
+html,body {height: 100%;}
+html,body,ul,li,h1,h2,h3,h4,h5,h6 {margin: 0; padding: 0;}
+li {list-style: none;}
+a {
+  text-decoration: none;
+  color: #000;
+  transition: .5s;
+}
